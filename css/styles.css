@@ -47,7 +47,7 @@ header {
 #myname {
     color: #CF4100;
     text-align: center;
-    font-size: 70px;
+    font-size: 300%;
     position: relative;
     bottom: 100px;
     width: 15%;
@@ -58,7 +58,7 @@ header {
 }
 
 #myjob {
-    font-size: xx-large;
+    font-size: 200%;
     position: relative;
     bottom: 40px;
     width: 10%;
